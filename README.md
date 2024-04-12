@@ -1,1 +1,1 @@
-# :📖: College-Exercises
+#📖 College-Exercises 
